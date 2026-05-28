@@ -1,0 +1,6 @@
+{
+  "name": "PadhaiVerse",
+  "description": "A minimalist, responsive, and clean digital study platform to browse study courses, view announcements, explore subjects, lectures and PDF study resources smoothly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
